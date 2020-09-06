@@ -1,2 +1,8 @@
 # Forever-Run
-It's Never Ending Run Game !! 
+The Never Ending Run Game !! 
+
+Bulit using Unity !!
+
+```
+Currentlu only WebGL is available !!
+```
